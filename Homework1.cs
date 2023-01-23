@@ -1,5 +1,5 @@
 ﻿namespace Homework1;
-class Homework1
+class Program
 {
     static void Main(string[] args)
     {
